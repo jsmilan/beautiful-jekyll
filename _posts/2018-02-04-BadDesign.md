@@ -1,3 +1,8 @@
+---
+layout: post
+title: Bad Design
+---
+
 # Bad Design
 
 Forgive me if this post is redundant (I suspect many others will write on the same topic), but the failures of the website I am about to discuss are weighing heavily on my conscience. 
