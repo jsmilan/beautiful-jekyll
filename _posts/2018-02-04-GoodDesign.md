@@ -1,3 +1,8 @@
+---
+layout: post
+title: Good Design
+---
+
 # Good Design
 
 It's rare that I get to discuss good design in the context of Williams College.
