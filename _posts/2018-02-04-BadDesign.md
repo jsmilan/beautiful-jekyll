@@ -8,7 +8,7 @@ title: Bad Design
 Forgive me if this post is redundant (I suspect many others will write on the same topic), but the failures of the website I am about to discuss are weighing heavily on my conscience. 
 It is a site that lives in infamy on the Williams college campus: sarah.williams.edu, also known as the PeopleSoft website. 
 
-![Peoplesoft Login](https://github.com/jsmilan/jsmilan.github.io/blob/master/img/Peoplesoft%20Login.PNG "The deceptively inviting PeopleSoft login screen, waiting to ensnare unsuspecting students")
+![Peoplesoft Login](/jsmilan.github.io/blob/master/img/Peoplesoft%20Login.PNG "The deceptively inviting PeopleSoft login screen, waiting to ensnare unsuspecting students")
 
 This primary website used by students for all their Williams needs. 
 Its functionality includes managing class enrollment, requesting progress reports, booking tickets for school charter buses and more. 
@@ -16,7 +16,7 @@ As long as one is enrolled at Williams, PeopleSoft is unavoidable, and this make
 
 ### A Rough Start
 
-![Intermediate Menu](https://github.com/jsmilan/jsmilan.github.io/blob/master/img/Menu%20That%20Exists%20For%20No%20Reason%20(commentary).png "Where the frustration begins")
+![Intermediate Menu](/jsmilan.github.io/blob/master/img/Menu%20That%20Exists%20For%20No%20Reason%20(commentary).png "Where the frustration begins")
 
 Upon logging in, the user is greeted by an awkward menu that has two square items in the upper left corner (Navigation Help and Main Menu) and plenty of negative space.
 Because the site is in english, it's safe to assume that user will be reading the site visually from left to right.
