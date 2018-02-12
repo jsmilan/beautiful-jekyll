@@ -1,4 +1,15 @@
 <!-- _includes/image.html -->
+<style>
+.image-wrapper {
+    text-align: center;
+
+    .image-caption {
+        color: $grey-color;
+        margin-top: $spacing-unit / 3;
+    }
+}
+</style>
+
 <div class="image-wrapper" >
     {% if include.url %}
     <a href="{{ include.url }}" title="{{ include.title }}" target="_blank">
