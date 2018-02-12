@@ -1,6 +1,7 @@
 ---
-layout: post
-title: Sous Shopper -- Project Proposal
+layout: page
+title: Sous Shopper
+subtitle: Individual Project Proposal
 ---
 
 # Sous Shopper
