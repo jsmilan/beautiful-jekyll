@@ -21,7 +21,7 @@ it emphasizes aesthetics, yet it does not compromise on clarity of information.
 In fact, the aesthetic of wcma.williams.edu assists in presenting the information
 about WCMA.
 
-![WCMA Homepage](https://github.com/jsmilan/jsmilan.github.io/blob/master/img/Good%20Design/Oooh%20pretty.PNG "All the information you could ask for")
+![WCMA Homepage](/jsmilan.github.io/blob/master/img/Good%20Design/Oooh%20pretty.PNG "All the information you could ask for")
 
 The search bar at the top of the site doubles as a news ticker for the website,
 but the search bar's primary function is still made obvious by its shape, positioning
@@ -31,7 +31,7 @@ that indicate the name of the exhibit and the how long it will be up. Hovering
 over one of these rectangles will cause the rest of the overlay to disappear and
 the background image to change to one of the representative works in that exhibit.
 
- ![Exhibit Page](https://github.com/jsmilan/jsmilan.github.io/blob/master/img/Good%20Design/Exhibit%20A%20(get%20it).PNG "nice")
+ ![Exhibit Page](/jsmilan.github.io/blob/master/img/Good%20Design/Exhibit%20A%20(get%20it).PNG "nice")
 
 Clicking on the rectangle will bring you to the page for the exhibit, which contains
 images of more works in the exhibit, as well as information about the artist and the
