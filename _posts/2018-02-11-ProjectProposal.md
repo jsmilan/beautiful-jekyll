@@ -1,5 +1,7 @@
+---
 layout: post
 title: Sous Shopper -- Project Proposal
+---
 
 # Sous Shopper
 ## A helping hand outside the kitchen
