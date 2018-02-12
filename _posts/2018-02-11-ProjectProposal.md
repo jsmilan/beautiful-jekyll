@@ -19,7 +19,7 @@ Between online recipe sites, instructional videos on YouTube, and the ubiquitous
 {% include image.html
             img="/jsmilan.github.io/img/ProjectProposal/SuperValueFlatbushProduce2.jpg"
             title="Produce Aisle"
-            caption="Figure 1: The produce aisle can be daunting at times. (Image by wikimedia user Jaskarn.dhatt, hosted at https://commons.wikimedia.org/wiki/File:SuperValueFlatbushProduce2.jpg)" %}
+            caption="Figure 1: The produce aisle can be daunting at times. <br/> (Image by wikimedia user Jaskarn.dhatt, hosted at https://commons.wikimedia.org/wiki/File:SuperValueFlatbushProduce2.jpg)" %}
 
 Furthermore, in a place like our humble Williamstown, MA, many of the ingredients in recipes dreamed up by chefs in cities simply aren’t available. There ought to be a platform which helps people to understand and utilize their local ingredients to the fullest.
 
@@ -40,7 +40,7 @@ There are a number of factors to consider when purchasing produce:
 {% include image.html
             img="/jsmilan.github.io/img/ProjectProposal/vegetable-graph.jpg"
             title="Seasonality Chart"
-            caption="Figure 2: Seasonality can be an awful lot to keep track of in your head. (Image by Russel van Kraayenburg, hosted at http://www.businessinsider.com/when-fruits-and-vegetables-are-in-season-2012-6)" %}
+            caption="Figure 2: Seasonality can be an awful lot to keep track of in your head. </br> (Image by Russel van Kraayenburg, hosted at http://www.businessinsider.com/when-fruits-and-vegetables-are-in-season-2012-6)" %}
 
 The idea behind Sous Shopper is to help keep track of information relating to the quality of produce, while encouraging its users to be creative in their application of the légume. Users will be able to view recipes from other users living in similar areas and submit their own as well. In addition to guiding cooks in the selection of their ingredients, it will also facilitate the exchange of information between community members.
 
