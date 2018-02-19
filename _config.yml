@@ -24,6 +24,7 @@ description: my site for CSCI 376 -- Human-Computer Interaction
 # List of links in the navigation bar
 navbar-links:
   About Me: "aboutme"
+  Sous Shopper: "https://diegorgonzalez.github.io/sousshopper/"
   #Resources:
    # - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
    # - Learn markdown: "http://www.markdowntutorial.com/"
