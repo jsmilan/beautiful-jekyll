@@ -43,7 +43,7 @@ It’s good to have pride in one’s work. I sometimes wonder if anyone would ev
 
 The paper prototyping stage of this project is one of my few sources of regret in this project. We wanted our prototype to be interesting and unique, and spent too much time on its implementation. The result: a reasonably fluid scrolling system and many hideously underdeveloped features which we were not able to test by the time we had to put out a hi-fi prototype. 
 
-![GIF of the scrolling system in our paper prototype](/sousshopper/img/PaperPrototype/list_swipe.gif)
+![GIF of the scrolling system in our paper prototype](diegorgonzalez.github.io/sousshopper/img/PaperPrototype/list_swipe.gif)
 
 That might be a satisfying GIF, but at what cost? We were so focused on making our paper prototype feel like a phone app that we built a design that made it incredibly difficult to add additional features. Our cardboard phone fit nicely in the hand, but our commitment to that superficial design goal hindered us in swapping out pages to effectively simulate using our app. There was no reason for us to try to create a high quality experience out of this prototype whose purpose was to ignore aesthetics. 
 
